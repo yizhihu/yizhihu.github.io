@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[yizhihu's blog]]></title>
+  <subtitle><![CDATA[Walk steps step by step]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yizhihu.github.io/"/>
+  <updated>2015-12-31T07:23:40.618Z</updated>
+  <id>http://yizhihu.github.io/</id>
+  
+  <author>
+    <name><![CDATA[yizhihu]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[关于VPS选择和配置一]]></title>
+    <link href="http://yizhihu.github.io/2015/12/23/%E5%85%B3%E4%BA%8EVPS%E9%80%89%E6%8B%A9%E5%92%8C%E9%85%8D%E7%BD%AE%E4%B8%80/"/>
+    <id>http://yizhihu.github.io/2015/12/23/关于VPS选择和配置一/</id>
+    <published>2015-12-23T02:03:54.000Z</published>
+    <updated>2015-12-31T07:23:40.618Z</updated>
+    <content type="html"><![CDATA[<h3 id="u6700_u8FD1_u5B66_u4E60_u642D_u5EFAVPS_u4EE5_u53CA_u7FFB_u5899_u7684_u653B_u7565_uFF0C_u5E76_u81EA_u5DF1_u6210_u529F_u642D_u5EFA_u81EA_u5DF1_u7684_u7FFB_u5899_u670D_u52A1_u5668_uFF0C_u628A_u8FD9_u4E2A_u8FC7_u7A0B_u8BB0_u5F55_u4E0B_u6765_u3002"><a href="#u6700_u8FD1_u5B66_u4E60_u642D_u5EFAVPS_u4EE5_u53CA_u7FFB_u5899_u7684_u653B_u7565_uFF0C_u5E76_u81EA_u5DF1_u6210_u529F_u642D_u5EFA_u81EA_u5DF1_u7684_u7FFB_u5899_u670D_u52A1_u5668_uFF0C_u628A_u8FD9_u4E2A_u8FC7_u7A0B_u8BB0_u5F55_u4E0B_u6765_u3002" class="headerlink" title="最近学习搭建VPS以及翻墙的攻略，并自己成功搭建自己的翻墙服务器，把这个过程记录下来。"></a>最近学习搭建VPS以及翻墙的攻略，并自己成功搭建自己的翻墙服务器，把这个过程记录下来。</h3><p>### </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="u6700_u8FD1_u5B66_u4E60_u642D_u5EFAVPS_u4EE5_u53CA_u7FFB_u5899_u7684_u653B_u7565_uFF0C_u5E76_u81EA_u5DF1_u6210_u529F_u642D_u5EFA_u81]]>
+    </summary>
+    
+      <category term="vps" scheme="http://yizhihu.github.io/tags/vps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yizhihu.github.io/2015/12/17/hello-world/"/>
+    <id>http://yizhihu.github.io/2015/12/17/hello-world/</id>
+    <published>2015-12-17T06:49:47.672Z</published>
+    <updated>2015-12-17T06:49:47.672Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
